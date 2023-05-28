@@ -1,6 +1,8 @@
 # User
 mypyreport/
 logs/
+in
+out
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
