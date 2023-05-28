@@ -30,8 +30,6 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.taskipy.tasks]
-dev = "python src/main.py"
-sub = "python src/sub.py"
 a = "python src/a.py"
 fmt-lint = "task fmt && task lint"
 fmt-lint-strictest = "task fmt && task lint-strictest"

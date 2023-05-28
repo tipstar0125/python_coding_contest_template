@@ -1,14 +1,14 @@
 {
     "editor.formatOnSave": true,
     "python.analysis.extraPaths": ["./src"],
-    "python.defaultInterpreterPath": "C:/Users/81809/src/git/python-app/coding-contest/.venv/Scripts/python.exe",
+    "python.defaultInterpreterPath": "C:/Users/06106/src/git/python_coding_contest_template/.venv/Scripts/python.exe",
     "python.formatting.provider": "black",
-    "python.formatting.blackPath": "C:/Users/81809/src/git/python-app/coding-contest/.venv/Scripts/black.exe",
+    "python.formatting.blackPath": "C:/Users/06106/src/git/python_coding_contest_template/.venv/Scripts/black.exe",
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
-    "python.linting.flake8Path": "C:/Users/81809/src/git/python-app/coding-contest/.venv/Scripts/pflake8.exe",
+    "python.linting.flake8Path": "C:/Users/06106/src/git/python_coding_contest_template/.venv/Scripts/pflake8.exe",
     "python.linting.mypyEnabled": true,
-    "python.linting.mypyPath": "C:/Users/81809/src/git/python-app/coding-contest/.venv/Scripts/mypy.exe",
+    "python.linting.mypyPath": "C:/Users/06106/src/git/python_coding_contest_template/.venv/Scripts/mypy.exe",
     "python.linting.mypyArgs": [
         "--ignore-missing-imports"
     ],
@@ -22,6 +22,7 @@
         "reportUnknownMemberType":"none",
         "reportUnknownVariableType":"none",
         "reportMissingTypeStubs": "none",
+        "reportUnusedImport": "none",
         "reportUnboundVariable": "warning"
     },
     "cSpell.words": [
